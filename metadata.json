@@ -1,0 +1,6 @@
+{
+  "name": "B.Tech Buddy - Student Productivity Suite",
+  "description": "Comprehensive engineering student productivity and peer community suite featuring timetable schedules, custom tasks, flexible focus timer, labs & assignments tracker, Ask Students question community, inbox notifications, classmate chat, 75% attendance calculator, and Gemini-powered AI doubt solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
